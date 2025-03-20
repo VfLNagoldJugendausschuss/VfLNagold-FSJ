@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FSJ im Handball & Schule – Werde Teil unseres Teams!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Freiwilliges Soziales Jahr (FSJ) 2025/26</h1>
+        <p>Bewirb dich bis zum <strong>27. April 2025</strong> und werde Teil unseres Teams!</p>
+    </header>
+
+    <section id="about">
+        <h2>Was erwartet dich?</h2>
+        <p>Du absolvierst dein FSJ in einer Kombination aus <strong>der Schule und Sportverein</strong>. Dein Einsatzbereich liegt in der Zellerschule Nagold und der Handballabteilung des VfL Nagold.</p>
+    </section>
+
+    <section id="tasks">
+        <h2>Deine Aufgaben im FSJ:</h2>
+        <ul>
+            <li><strong>In der Schule:</strong> Unterstützung im Sportunterricht und Betreuung der Schüler</li>
+            <li><strong>Im Handballverein:</strong> Kindertraining begleiten, Social-Media-Kanäle kreativ bespielen, Unterstützung im Trainingsbetrieb</li>
+            <li>Planung und Durchführung von Jugendevents, im Jugendausschuss</li>
+            <li>Hilfe bei Vereinsveranstaltungen und Turnieren</li>
+        </ul>
+    </section>
+
+    <section id="requirements">
+        <h2>Wen suchen wir?</h2>
+        <ul>
+            <li>Sportbegeisterte, engagierte und offene Menschen</li>
+            <li>Teamfähigkeit und Verantwortungsbewusstsein</li>
+            <li>Motivation, selbstständig zu arbeiten</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Interesse?</h2>
+        <p>Dann bewirb dich bis zum <strong>27. April 2025</strong>!</p>
+        <p>📩 Kontakt: <a href="mailto:JUGENDAUSSCHUSS@vflnagold-handball.de">JUGENDAUSSCHUSS@vflnagold-handball.de</a></p>
+        <p>
+
+    <footer>
+        <p>© 2025 VfL Nagold – Abteilung Handball</p>
+    </footer> </body></html>
